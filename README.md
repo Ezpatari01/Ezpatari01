@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi there, I'm Miguel
 
-<!--
-**Ezpatari01/Ezpatari01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate engineering student exploring the intersection of **robotics**, **machine learning**, and **signal processing**.
 
-Here are some ideas to get you started:
+🧠 Currently working on projects involving EMG signal analysis and human motion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in building intuitive tools that connect software, hardware, and people.
+
+🚀 Always learning — Python, C++, embedded systems, and clean UI design.
+
+Thanks for visiting my profile!
+
+<!-- Launchpad GitHub Education Program -->
